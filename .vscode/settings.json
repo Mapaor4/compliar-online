@@ -1,0 +1,8 @@
+{
+    "fortran.fortls.disabled": true,
+    "extensions.ignoreRecommendations": true,
+    "workbench.editorAssociations": {   
+        "*.md": "vscode.markdown.preview.editor",
+    },
+    "outline.collapseItems": "alwaysCollapse"
+}
